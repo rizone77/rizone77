@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rizone Rakib!
 
-🚀 Developer | 🌐 Future Webflow Expert | 🇧🇩 from Bangladesh | 🇫🇮 based in Finland  
+🚀 Developer | 🌐 Future React Expert | 🇧🇩 from Bangladesh | 🇫🇮 based in Finland  
 
 ---
 
