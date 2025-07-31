@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 🧠 Learning **Webflow development**, modern frontend tools, and UI/UX design
+- 🧠 Learning **Web development**, modern frontend tools, and UI/UX design
 - 🌍 Working on cross-border tech solutions (Finland ↔️ Bangladesh)
 - 💬 I speak English, Bangla, and learning Finnish (currently A2–B1 level)
 - 📱 I develop apps remotely and love building beautiful, user-friendly websites
